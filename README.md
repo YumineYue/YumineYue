@@ -20,7 +20,7 @@
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png></td>
 
 <td valign="top" width="33%">
-<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&psig=AOvVaw1OMNe2Tjb4Eb30XTWamHlu&ust=1738424581243000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDqy-ymoIsDFQAAAAAdAAAAABAE"
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/800px-Official_CSS_Logo.svg.png>
 </td><td valign="top" width="33%">
 
 
