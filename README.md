@@ -2,12 +2,12 @@
 
 
 ### <div align="center">I'm a Student of Universitas Muhammdiyah Malang, I'm still learning Software Engineering and Data Science</div>
+TO DO LIST :
 
-- 🔭 I’m still explore basic for junior frontend
-
-- 🌱 I’m currently learning HTML and CSS
-
-- ❓ You can Email Me Through [Here](mailto:GominexV4@gmail.com)
+- Basic Software Engineering
+- Basic Data Science
+  
+- ❓Email Me [Here](mailto:GominexV4@gmail.com)
 
 <br/>  
 
